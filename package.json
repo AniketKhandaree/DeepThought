@@ -1,0 +1,17 @@
+{
+  "name": "mytestcafeproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "author": "AniketKhandare",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "testcafe": "^3.3.0"
+  },
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
